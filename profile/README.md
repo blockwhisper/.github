@@ -61,7 +61,7 @@ voice it can be recognized by.
 ## Status
 
 blockwhisper was founded on 2026-10-29. Nothing has been released or deployed under it, or under the
-four organizations it carries forward. The working record is kept privately until release. When
+four organizations it carries forward. The working record is public: **[blockchain.communication](https://github.com/blockwhisper/blockchain.communication)**, starting with its [CONTINUATION.md](https://github.com/blockwhisper/blockchain.communication/blob/main/CONTINUATION.md). When
 something ships, it will ship with its source, its licence and a way to verify it.
 
 ## The estate
