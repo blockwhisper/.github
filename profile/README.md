@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png" width="260" alt="blockwhisper">
+
 # blockwhisper
 
 ### `blockchain.communication` — carried forward
@@ -27,6 +29,16 @@ able to talk privately, without a platform in between, and every message should 
 anyone can check.
 
 ## The parts
+
+<table>
+<tr>
+<td align="center" width="20%"><a href="https://github.com/chatter3"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/chatter3.png" width="120" alt="chatter3"></a><br><b><a href="https://github.com/chatter3">chatter3</a></b><br><sub>the forum</sub></td>
+<td align="center" width="20%"><a href="https://github.com/chattchain"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/chattchain.jpg" width="120" alt="chattchain"></a><br><b><a href="https://github.com/chattchain">chattchain</a></b><br><sub>the chain</sub></td>
+<td align="center" width="20%"><a href="https://github.com/web3comm"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/web3comm.png" width="120" alt="web3comm"></a><br><b><a href="https://github.com/web3comm">web3comm</a></b><br><sub>the environment</sub></td>
+<td align="center" width="20%"><a href="https://github.com/blktalk"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blktalk.jpg" width="120" alt="blktalk"></a><br><b><a href="https://github.com/blktalk">blktalk</a></b><br><sub>the systems layer</sub></td>
+<td align="center" width="20%"><a href="https://github.com/blockwhisper"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png" width="120" alt="blockwhisper"></a><br><b><a href="https://github.com/blockwhisper">blockwhisper</a></b><br><sub>the continuation</sub></td>
+</tr>
+</table>
 
 | Organization | Role |
 |---|---|
@@ -71,6 +83,7 @@ something ships, it will ship with its source, its licence and a way to verify i
 | **[cypherpunk4096](https://github.com/cypherpunk4096)** | the standard |
 | **[cryptoAGI](https://github.com/cryptoAGI)** | the agents |
 | **[orgmap](https://github.com/Professor-Codephreak/orgmap)** | the map of the whole estate |
+| **[BRANDING.md](https://github.com/blockwhisper/blockchain.communication/blob/main/BRANDING.md)** | blockwhisper's official logo, mark, colour and type |
 | **[AgenticPlace](https://agenticplace.pythai.net)** · **[mindX](https://mindx.pythai.net)** · **[BANKON](https://bankon.pythai.net)** · **[rage](https://rage.pythai.net)** | the ecosystem |
 
 <div align="center">
